@@ -62,7 +62,6 @@ python app.py
 This project includes automated unit tests written using pytest. The tests validate basic arithmetic functionality using assert statements. An HTML test report is also generated using the pytest-html plugin, providing a summarty of all test cases executed. 
 
 **Preview of Test Report**
-![Test Report Screenshot](report.png)
 
 ---
 
