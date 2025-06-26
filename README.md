@@ -9,14 +9,15 @@ This is a simple Python-based demonstration project designed to showase basic *a
  - 'test_app.py': Tests for 'app.py'. 
  - 'calculator.py': Arithmetic functions (add, subtract, multiply, divide. 
  - 'test_calculator.py': Unit tests for the 'calculator.py' scrip.
- - 'README.md': Project Documentation
+ - 'README.md': Project Documentation.
+ - 'report.png': Preview of HTML test report. 
 
 ---
 
 ## What You'll Learn
-- How to write Python functions that are easy to test
+- How to write Python functions that are easy to test.
 - How to use 'unittest' for automation testing.
-- How to check edge cases like dividing by zero
+- How to check edge cases like dividing by zero.
 - How to create clear and maintainable testing logic. 
 
 ---
