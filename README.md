@@ -63,6 +63,8 @@ This project includes automated unit tests written using pytest. The tests valid
 
 **Preview of Test Report**
 
+![Test Report Screenshot](report.png)
+
 ---
 
 ## Project Status
